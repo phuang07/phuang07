@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that bridge the gap between technology and everyday life, especially in areas like personal fitness - running, and enhancing teaching & learning experiences in Higher Education.
 - 🤔 I’m seeking insights and partnerships in the integration of AI/ML/DS in Bible Study & Research, exploring how these technologies can deepen our understanding of ancient texts.
 - 💬 Ask me about how to use AI and ML to transform traditional sectors like education and personal wellness, or about the latest trends in Software Development.
-- 📫 How to reach me on [![Linkedin Badge](https://img.shields.io/badge/-rayhuang-green?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/ray-huang-3296723/))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rayhuang-green?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/ray-huang-3296723/))
 - 😄 Pronouns: [he/his/him]
 - ⚡ Fun fact: When I'm not coding or untangling complex data, you'll find me lacing up for a 🏃, embracing the 🏃's high. I believe in balancing mind, body, and soul – coding, running, and spiritual exploration!
 

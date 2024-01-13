@@ -11,7 +11,7 @@
 
 ### 🔥 &nbsp; My Stats :
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=vue&user=phuang07)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-7cdi.vercel.app?user=phuang07&theme=vue)](https://git.io/streak-stats)
 
 ![Ray Huang's github stats](https://github-readme-stats.vercel.app/api?username=phuang07&show_icons=true)
 

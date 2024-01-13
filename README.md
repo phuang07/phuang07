@@ -13,7 +13,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Streak](https://github-readme-streak-stats-7cdi.vercel.app?user=phuang07&theme=vue)](https://git.io/streak-stats)
 
-![Ray Huang's github stats](https://github-readme-stats.vercel.app/api?username=phuang07&show_icons=true)
+<!-- ![Ray Huang's github stats](https://github-readme-stats.vercel.app/api?username=phuang07&show_icons=true) -->
 
 <!-- https://devicon.dev/ -->
 
